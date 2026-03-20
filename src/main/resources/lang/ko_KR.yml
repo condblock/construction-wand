@@ -2,104 +2,104 @@ addon: "ConstructionWand"
 
 item:
   building-wand-common:
-    name: "<green>설치 지팡이 | <blue>일반"
+    name: "<green>설치 지팡이 | <blue>기본"
     lore: |-
       <gray><insn>오른쪽 클릭</insn>으로 블록 설치
-      <attr>최대 범위:</attr> %range%블록
+      <attr>최대 범위:</attr> %range%
       <green>선택한 영역이 아무 블록으로나 채워집니다
   building-wand-rare:
-    name: "<green>설치 지팡이 | <gold>희귀"
+    name: "<green>설치 지팡이 | <gold>고급"
     lore: |-
       <gray><insn>오른쪽 클릭</insn>으로 블록 설치
-      <attr>최대 범위:</attr> %range%블록
+      <attr>최대 범위:</attr> %range%
       <green>선택한 영역이 아무 블록으로나 채워집니다
   building-wand-epic:
-    name: "<green>설치 지팡이 | <yellow>특급"
+    name: "<green>설치 지팡이 | <yellow>궁극"
     lore: |-
       <gray><insn>오른쪽 클릭</insn>으로 블록 설치
-      <attr>최대 범위:</attr> %range%블록
+      <attr>최대 범위:</attr> %range%
       <green>선택한 영역이 아무 블록으로나 채워집니다
   building-wand-block-strict-common:
-    name: "<green>설치 지팡이 | <blue>일반"
+    name: "<green>설치 지팡이 | <blue>기본"
     lore: |-
       <gray><insn>오른쪽 클릭</insn>으로 블록 설치
-      <attr>최대 범위:</attr> %range%블록
+      <attr>최대 범위:</attr> %range%
       <red>선택한 영역이 한 종류의 블록으로만 채워집니다
   building-wand-block-strict-rare:
-    name: "<green>설치 지팡이 | <gold>희귀"
+    name: "<green>설치 지팡이 | <gold>고급"
     lore: |-
       <gray><insn>오른쪽 클릭</insn>으로 블록 설치
-      <attr>최대 범위:</attr> %range%블록
+      <attr>최대 범위:</attr> %range%
       <red>선택한 영역이 한 종류의 블록으로만 채워집니다
   building-wand-block-strict-epic:
-    name: "<green>설치 지팡이 | <yellow>특급"
+    name: "<green>설치 지팡이 | <yellow>궁극"
     lore: |-
       <gray><insn>오른쪽 클릭</insn>으로 블록 설치
-      <attr>최대 범위:</attr> %range%블록
+      <attr>최대 범위:</attr> %range%
       <red>선택한 영역이 한 종류의 블록으로만 채워집니다
   building-wand-cheat:
     name: "<green>설치 지팡이 | <dark_red>치트"
     lore: |-
       <gray><insn>오른쪽 클릭</insn>으로 블록 설치
-      <attr>최대 범위:</attr> %range%블록
+      <attr>최대 범위:</attr> %range%
       <green>선택한 영역이 아무 블록으로나 채워집니다
       <red>관리자 전용
   building-wand-block-strict-cheat:
     name: "<green>설치 지팡이 | <dark_red>치트"
     lore: |-
       <gray><insn>오른쪽 클릭</insn>으로 블록 설치
-      <attr>최대 범위:</attr> %range%블록
+      <attr>최대 범위:</attr> %range%
       <red>선택한 영역이 한 종류의 블록으로만 채워집니다
       <red>관리자 전용
   breaking-wand-common:
-    name: "<red>파괴 지팡이 | <blue>일반"
+    name: "<red>파괴 지팡이 | <blue>기본"
     lore: |-
       <gray><insn>오른쪽 클릭</insn>으로 블록 파괴
-      <attr>최대 범위:</attr> %range%블록
+      <attr>최대 범위:</attr> %range%
       <red>선택한 영역이 한 종류의 블록으로만 채워집니다
   breaking-wand-rare:
-    name: "<red>파괴 지팡이 | <gold>희귀"
+    name: "<red>파괴 지팡이 | <gold>고급"
     lore: |-
       <gray><insn>오른쪽 클릭</insn>으로 블록 파괴
-      <attr>최대 범위:</attr> %range%블록
+      <attr>최대 범위:</attr> %range%
       <red>선택한 영역이 한 종류의 블록으로만 채워집니다
   breaking-wand-epic:
-    name: "<red>파괴 지팡이 | <yellow>특급"
+    name: "<red>파괴 지팡이 | <yellow>궁극"
     lore: |-
       <gray><insn>오른쪽 클릭</insn>으로 블록 파괴
-      <attr>최대 범위:</attr> %range%블록
+      <attr>최대 범위:</attr> %range%
       <red>선택한 영역이 한 종류의 블록으로만 채워집니다
   breaking-wand-cheat:
     name: "<red>파괴 지팡이 | <dark_red>치트"
     lore: |-
       <gray><insn>오른쪽 클릭</insn>으로 블록 파괴
-      <attr>최대 범위:</attr> %range%블록
+      <attr>최대 범위:</attr> %range%
       <red>선택한 영역이 한 종류의 블록으로만 채워집니다
       <red>관리자 전용
   fill-wand-common:
-    name: "<red>채움 지팡이 | <blue>일반"
+    name: "<red>채움 지팡이 | <blue>기본"
     lore: |-
       <green>왼쪽 클릭으로 시작 위치 설정
       <green><insn>오른쪽 클릭</insn>으로 종료 위치 설정
       <green><insn>쉬프트 오른쪽 클릭</insn>으로 채울 블록 설정
       <green>공중에 <insn>오른쪽 클릭</insn>으로 블록 채우기
-      <attr>최대 범위:</attr> %range%블록
+      <attr>최대 범위:</attr> %range%
   fill-wand-rare:
-    name: "<red>채움 지팡이 | <gold>희귀"
+    name: "<red>채움 지팡이 | <gold>고급"
     lore: |-
       <green>왼쪽 클릭으로 시작 위치 설정
       <green><insn>오른쪽 클릭</insn>으로 종료 위치 설정
       <green><insn>쉬프트 오른쪽 클릭</insn>으로 채울 블록 설정
       <green>공중에 <insn>오른쪽 클릭</insn>으로 블록 채우기
-      <attr>최대 범위:</attr> %range%블록
+      <attr>최대 범위:</attr> %range%
   fill-wand-epic:
-    name: "<red>채움 지팡이 | <yellow>특급"
+    name: "<red>채움 지팡이 | <yellow>궁극"
     lore: |-
       <green>왼쪽 클릭으로 시작 위치 설정
       <green><insn>오른쪽 클릭</insn>으로 종료 위치 설정
       <green><insn>쉬프트 오른쪽 클릭</insn>으로 채울 블록 설정
       <green>공중에 <insn>오른쪽 클릭</insn>으로 블록 채우기
-      <attr>최대 범위:</attr> %range%블록
+      <attr>최대 범위:</attr> %range%
   fill-wand-cheat:
     name: "<red>채움 지팡이 | <dark_red>치트"
     lore: |-
@@ -107,7 +107,7 @@ item:
       <green><insn>오른쪽 클릭</insn>으로 종료 위치 설정
       <green><insn>쉬프트 오른쪽 클릭</insn>으로 채울 블록 설정
       <green>공중에 <insn>오른쪽 클릭</insn>으로 블록 채우기
-      <attr>최대 범위:</attr> %range%블록
+      <attr>최대 범위:</attr> %range%
       <red>관리자 전용
 
 guide:
